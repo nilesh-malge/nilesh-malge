@@ -14,7 +14,8 @@ Background in Pharmacy gives me rare domain depth in healthcare tech. Deliberate
 - 💳 Shipped a fintech system processing **1,000+ daily transactions** with 99.5% success rate
 - 🌍 Currently working at **MarkGenic Software PVT LTD**, Pune
 - 📜 Certified: **Complete Web Development Course** — Udemy (Hitesh Choudhary, 100 hrs)
-- 📫 Reach me at: **nileshmalge1997@gmail.com** **+91 9272516561**
+- 📫 Reach me at: **nileshmalge1997@gmail.com**
+- 📞 Call/WhatsApp: **+91 92725 16561**
 
 ---
 
@@ -71,7 +72,7 @@ Background in Pharmacy gives me rare domain depth in healthcare tech. Deliberate
 
 ## 📜 Certification
 
-**Full Stack Web Development** — Udemy · Hitesh Choudhary · 100 hrs · May 2026
+**Complete Web Development Course** — Udemy · Hitesh Choudhary · 100 hrs · May 2026
 Covers: React.js, Node.js, MongoDB, PostgreSQL, Prisma, Tailwind CSS, Redux, Zustand, TensorFlow.js, Langchain, Deployment
 🔗 [Verify Certificate](https://ude.my/UC-24ef4664-d0de-48c4-b837-f0849f98b556)
 
@@ -88,6 +89,7 @@ Covers: React.js, Node.js, MongoDB, PostgreSQL, Prisma, Tailwind CSS, Redux, Zus
 ## 📬 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-nileshmalge1997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nileshmalge1997@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+91_92725_16561-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919272516561)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilesh_Malge-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nileshmalge)
 
 ---
