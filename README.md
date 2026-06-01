@@ -69,13 +69,6 @@ Background in Pharmacy gives me rare domain depth in healthcare tech. Deliberate
 
 ---
 
-## 📊 GitHub Stats
-
-![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshmalge&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshmalge&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 📜 Certification
 
 **Full Stack Web Development** — Udemy · Hitesh Choudhary · 100 hrs · May 2026
