@@ -13,7 +13,7 @@ Background in Pharmacy gives me rare domain depth in healthcare tech. Deliberate
 - 🏥 Built a healthcare platform managing **50,000+ patient records** at 99.9% uptime
 - 💳 Shipped a fintech system processing **1,000+ daily transactions** with 99.5% success rate
 - 🌍 Currently working at **MarkGenic Software PVT LTD**, Pune
-- 📜 Certified: **Full Stack Web Development** — Udemy (Hitesh Choudhary, 100 hrs)
+- 📜 Certified: **Complete Web Development Course** — Udemy (Hitesh Choudhary, 100 hrs)
 - 📫 Reach me at: **nileshmalge1997@gmail.com**
 
 ---
