@@ -1,131 +1,102 @@
-<h1 align="center">Hi, I'm Nilesh Malge 👋</h1>
+# Hi, I'm Nilesh Malge 👋
 
-<h3 align="center">Full Stack Developer · React.js · React Native · Node.js · NestJS</h3>
-
-<p align="center">
-  <a href="mailto:nileshmalge1997@gmail.com">📧 nileshmalge1997@gmail.com</a> &nbsp;|&nbsp;
-  📞 +91 9272516561 &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/nileshmalge">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/nilesh-malge">🐙 GitHub</a> &nbsp;|&nbsp;
-  📍 Pune, India &nbsp;|&nbsp;
-  🌐 Open to Remote Roles
-</p>
+### Full Stack Developer · FinTech & Healthcare · Pune, India
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Results-driven **Full Stack Developer** with **2+ years** of professional experience building scalable, high-performance web and mobile applications across **FinTech** and **Healthcare** domains.
+Full Stack Developer with **3+ years** building production-grade platforms in **FinTech** and **Healthcare**. I specialize in React.js, Next.js, TypeScript, Node.js, and NestJS — delivering end-to-end features from schema design to production deployment.
 
-- 🔭 Currently working at **MarkGenic Software Pvt Ltd** as a Full Stack Developer
-- 💡 Specialized in **React.js, React Native, Next.js, Node.js, and NestJS**
-- 🏥 Built a healthcare platform managing **500+ patients** with role-based dashboards
-- 💳 Built a fintech platform processing **1,000+ daily transactions** with 99.9% uptime
-- 🧪 Strong testing discipline — **80%+ Jest code coverage** across backend services
-- 🤝 Experienced in **Agile/Scrum** environments with cross-functional remote teams
-- 📬 Reach me: **nileshmalge1997@gmail.com** or **+91 9272516561**
+Background in Pharmacy gives me rare domain depth in healthcare tech. Deliberately transitioned into software development through structured learning and 3+ years of production engineering.
+
+- 🏥 Built a healthcare platform managing **50,000+ patient records** at 99.9% uptime
+- 💳 Shipped a fintech system processing **1,000+ daily transactions** with 99.5% success rate
+- 🌍 Currently working at **MarkGenic Software PVT LTD**, Pune
+- 📜 Certified: **Full Stack Web Development** — Udemy (Hitesh Choudhary, 100 hrs)
+- 📫 Reach me at: **nileshmalge1997@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_Blob-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=flat&logo=cursor&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
 
-## 🚀 Key Projects
+## 💼 Featured Projects
 
 ### 🏥 Healthcare Patient Management System
-> Full-stack platform for 500+ patients — appointments, medical records, prescriptions & billing
+> Full-stack healthcare platform enabling patients, doctors, and admins to manage appointments, medical records, prescriptions, and billing.
 
-**Tech Stack:** `React.js` `React Native` `Next.js` `Redux Toolkit` `NestJS` `PostgreSQL` `JWT` `Nginx`
-
-- Built 3 role-based dashboards (patient, doctor, admin) — reduced admin workload by **~30%**
-- Developed **20+ REST APIs** with JWT authentication and RBAC for 3 user roles
-- Optimized **10+ SQL queries** — improved API response time by **~40%**
-- Implemented offline storage (IndexedDB) for low-connectivity environments
-- Maintained **80%+ Jest test coverage** across all backend services
-- Deployed with Nginx, PM2, and Vercel — **zero-downtime configuration**
+- **Scale:** 50,000+ patient records · 99.9% uptime · 6+ months in production
+- **Stack:** React.js · Next.js · TypeScript · NestJS · PostgreSQL · JWT/RBAC · Nginx · PM2
+- **Impact:** Reduced manual admin workload by ~30% · Cut API response time by ~40% · 80%+ Jest test coverage
 
 ---
 
 ### 💳 Digital Payment & Loan Processing System
-> Scalable FinTech platform with microservices handling 1,000+ daily transactions
+> Scalable fintech platform for digital payments and loan processing built on microservices architecture.
 
-**Tech Stack:** `React.js` `React Native` `Next.js` `Context API` `Node.js` `Express.js` `MongoDB` `MySQL` `JWT`
-
-- Designed **4 independent microservices** (payment, loan, user, notification)
-- Integrated **3 payment gateways** (UPI, cards, net banking) — **99.5% transaction success rate**
-- Handled **50,000+ database records** with optimized indexing
-- Improved transaction throughput by **~30%** through backend optimization
-- Achieved **99.9% production uptime** via Nginx and PM2
+- **Scale:** 1,000+ daily transactions · 1,500+ daily active users · 99.5% payment success rate
+- **Stack:** React.js · Next.js · Node.js · Express.js · MongoDB · MySQL · AWS S3 · Azure Blob
+- **Impact:** Reduced loan processing time by ~35% · Improved transaction throughput by ~30%
 
 ---
 
-## 🏆 Highlights
+## 📊 GitHub Stats
 
-| Metric | Result |
-|--------|--------|
-| 🧪 Test coverage | 80%+ Jest coverage |
-| ⚡ Query optimization | ~40% faster API response |
-| 💳 Payment success rate | 99.5% |
-| 🔼 Production uptime | 99.9% |
-| 👥 Daily active users | 1,000+ |
-| 🏥 Patients served | 500+ |
-| 🔗 APIs built | 20+ |
+![Nilesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nileshmalge&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshmalge&layout=compact&theme=default&hide_border=true)
 
 ---
 
-## 📫 Let's Connect
+## 📜 Certification
 
-<p align="left">
-  <a href="https://linkedin.com/in/nileshmalge" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nileshmalge1997@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nilesh-malge" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="tel:+919272516561">
-    <img src="https://img.shields.io/badge/Phone-+91_9272516561-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</p>
+**Full Stack Web Development** — Udemy · Hitesh Choudhary · 100 hrs · May 2026
+Covers: React.js, Node.js, MongoDB, PostgreSQL, Prisma, Tailwind CSS, Redux, Zustand, TensorFlow.js, Langchain, Deployment
+🔗 [Verify Certificate](https://ude.my/UC-24ef4664-d0de-48c4-b837-f0849f98b556)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nilesh-malge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+## 🌱 Currently Learning
 
-<p align="center">⚡ Open to full-time remote opportunities — let's build something great together!</p>
+- 🐳 Docker & Kubernetes
+- ☁️ AWS Certified Developer
+- 🤖 AI-integrated web apps with Langchain & TensorFlow.js
+
+---
+
+## 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-nileshmalge1997@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nileshmalge1997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nilesh_Malge-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nileshmalge)
+
+---
+
+*Open to exciting Full Stack opportunities in FinTech, Healthcare, and product companies.*
